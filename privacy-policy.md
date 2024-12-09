@@ -1,7 +1,7 @@
-Privacy Policy for MathGame
+Privacy Policy for Numeria
 Last Updated: 5-12-2024
 
-At MathGame, we value your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
+At Numeria, we value your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
 ---
 
@@ -15,7 +15,7 @@ If, in a later version, the app allows users to enter their name for a personali
 ---
 
 2. In-App Purchases
-MathGame includes a one-time payment feature for upgrading to the unlimited version of the app. This payment is handled securely through the **Google Play billing system**, and we do not access or store any payment information or personal data related to these transactions.
+Numeria will include a one-time payment feature for upgrading to the unlimited version of the app. This payment is handled securely through the **Google Play billing system**, and we do not access or store any payment information or personal data related to these transactions.
 
 When making a purchase:
 - Google Play may collect payment details and associate the purchase with your Google account.
@@ -38,7 +38,7 @@ For in-app purchases, payment processing and account management are handled dire
 ---
 
 5. Children’s Privacy
-MathGame is suitable for users of all ages, including children under 13. Since no data is collected by the app, it complies with the **Children’s Online Privacy Protection Act (COPPA)**.
+Numeria is suitable for users of all ages, including children under 13. Since no data is collected by the app, it complies with the **Children’s Online Privacy Protection Act (COPPA)**.
 
 Parents should supervise children’s use of the app, especially when making in-app purchases through Google Play.
 
